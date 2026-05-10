@@ -100,9 +100,6 @@
 
 ### Escape Pod Propaganda
 
-*This is labelled as IAE, so this might be an early addition for IAE.*
-
 ![escape pods are for cowards](../media/escapepod-propaganda/expo_intergalactic_3_horizontal_a_diff.webp)
 
 ![escape pod posters](../media/escapepod-propaganda/pamphlet_advert_1_iae_a_diff.webp)
-
