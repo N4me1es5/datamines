@@ -4,8 +4,8 @@
 
 ## Images
 
-### Grey's Basher Teaser
-
+### Drake DefenseCon Map
+![Drake DefenseCon Map](../media/signage/defensecon_hallmap_16x9_a_diff.png)
 ### Drake DefenseCon Ironclad Branding
 ![SERIOUS WORK DEMANDS A SERIOUS SHIP](../media/signage/defensecon_branding_d_diff.png)
 ![RUN THE SKIES](../media/signage/defensecon_branding_f_diff.png)

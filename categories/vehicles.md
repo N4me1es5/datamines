@@ -3,8 +3,17 @@
 # Vehicles & Ships
 
 ## Ships
+
 ### Drake Ironclad Series
+
 *Both the Ironclad and the Ironclad Assault have been added to the game, accessible to backers with ownership of one.*
+
+### Grey's Basher Teaser
+
+*While no further info is known other than it's release in July, going by the naming correlation between the Cutlass and the Shiv, the Basher might be a modded Mustang.*
+
+![Grey's Basher Teaser](../media/signage/defensecon_sign_16x9_hrz_c_diff.png)
+
 ## Paints
 
 ### Ironclad Sediment Livery
@@ -36,3 +45,9 @@
 > Primarily green with yellow accents, the Commando livery allows the Ironclad to blend in with forests and verdant locations. 
 
 ![Commando Livery](../media/paints/paint_ironclad_olive_olive_yellow_icon.png)
+
+### Ironclad Black Silver Black Livery
+
+*Name or use is not known*
+
+![Black Silver Black](../media/paints/paint_ironclad_black_silver_black_icon.png)

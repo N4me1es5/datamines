@@ -1,9 +1,4 @@
 # sc-alpha-4.8.0 Fri May 08 2026
-## 4.8 - Tactical Strike
-### [Items & Gear](categories/items.md)
-- Tailwind Flight Suit
-- DefenseCon Merch
-- New Gear Skins
 ### [Vehicles & Ships](categories/vehicles.md)
 - Drake Ironclad & Paints
 ### [Media](categories/media.md)
