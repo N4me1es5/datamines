@@ -15,5 +15,6 @@
 
 *This is a work in progress attempt at properly delivering Star Citizen datamines in a readable format. If there are any issues, questions or requests contact me on discord (**@aminameless**).*
 
-> [! NOTE]
+> [!NOTE]
 > **Disclaimer:** This is an unofficial community datamine and is not affiliated with, or endorsed by, or representative of Cloud Imperium Games or Roberts Space Industries. 
+
