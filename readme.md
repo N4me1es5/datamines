@@ -5,18 +5,12 @@
 - DefenseCon Merch
 - New Gear Skins
 ### [Vehicles & Ships](categories/vehicles.md)
-- New Ships
-- Flight Blades
-- Shiv cosmetic bodykits
-- Paints
-### [Journal Entry](categories/journal-entry.md)
-- Refueling Guide
-### [Events](categories/events.md)
-- Drake DefenseCon Display Showcases
+- Drake Ironclad & Paints
 ### [Media](categories/media.md)
-- Odin Renders
-- DefenseCon Posters
-- Future Patch Loading Screens
+- Grey's Basher
+- Drake DefenseCon Map
+- Drake Advertisement Video
+- DefenseCon Hall voicelines
 
 --- 
 
