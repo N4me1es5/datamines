@@ -7,7 +7,7 @@
 ### Drake Ironclad Series
 
 *Both the Ironclad and the Ironclad Assault have been added to the game, accessible to backers with ownership of one.*
-
+*As the Ironclad is already available to players, no render will be posted*
 ### Grey's Basher Teaser
 
 *While no further info is known other than it's release in July, going by the naming correlation between the Cutlass and the Shiv, the Basher might be a modded Mustang.*
